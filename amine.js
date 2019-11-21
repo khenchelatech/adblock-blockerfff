@@ -1,4 +1,8 @@
-
+/* -----------------------------------
+الإضافة من طرف مدونة خنشلة تك
+BlogName  :	 Khenchela Tech
+Url       :	 https://khe-tech.blogspot.com/
+-------------------------------------- */
 !function(){function f(){var a=document.createElement("div");a.id="levelmaxblock";a.innerHTML='
 <div class="inner">
     <div class="header">
